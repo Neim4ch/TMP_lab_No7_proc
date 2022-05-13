@@ -21,6 +21,9 @@ int main(int argc, char* argv[])
 	InCont(ifst, &c);
 	ofst << "Filled container. " << endl;
 	OutCont(ofst, &c);
+	Sort(c);
+	OutCont(ofst, &c);
+	OutFeature(ofst, &c);
 	MultiMethod(&c, ofst);
 	Clear(&c);
 	ofst << "Empty container. " << endl;

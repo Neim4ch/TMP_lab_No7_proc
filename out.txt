@@ -1,71 +1,234 @@
 Filled container. 
-Container contents 6 elements.
-0: It is feature film. Director is Lucas
-1: It is animation film. It's way of creation is drawing.
-2: It is animation film. It's way of creation is using dolls
-3: It is animation film. It's way of creation is stop motion
-4: It is feature film. Director is Scorsese
-5: It is feature film. Director is Spielberg
+Container contents 8 elements.
+0: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+Number of vowels = 2
+1: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+Number of vowels = 3
+2: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+Number of vowels = 6
+3: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+Number of vowels = 7
+4: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+Number of vowels = 4
+5: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+Number of vowels = 3
+6: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
+Number of vowels = 3
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
+Number of vowels = 2
+Container contents 8 elements.
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+Number of vowels = 7
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+Number of vowels = 6
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+Number of vowels = 4
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+Number of vowels = 3
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+Number of vowels = 3
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
+Number of vowels = 3
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+Number of vowels = 2
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
+Number of vowels = 2
+Only feature films.
+0: 
+1: 
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+3: 
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+5: 
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+7: 
 Multimethod.
-First feature and second animation
-0: It is feature film. Director is Lucas
-1: It is animation film. It's way of creation is drawing.
+First animation aND second animation
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
 
-First feature and second animation
-0: It is feature film. Director is Lucas
-2: It is animation film. It's way of creation is using dolls
+First animation plus second feature
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
 
-First feature and second animation
-0: It is feature film. Director is Lucas
-3: It is animation film. It's way of creation is stop motion
+First animation aND second animation
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+
+First animation plus second feature
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+
+First animation N' second documentary
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
+
+First animation plus second feature
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+
+First animation N' second documentary
+0: This is "Cartoon3aaaa". It is animation film. It's way of creation is stop motion
+The picture was filmed in Korea.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
+
+First animation plus second feature
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+
+First animation aND second animation
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+
+First animation plus second feature
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+
+First animation N' second documentary
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
+
+First animation plus second feature
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+
+First animation N' second documentary
+1: This is "Cartoon2aaa". It is animation film. It's way of creation is using dolls
+The picture was filmed in China.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
+
+First feature && second animation
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
 
 First feature with second feature
-0: It is feature film. Director is Lucas
-4: It is feature film. Director is Scorsese
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+
+First feature + second documentary
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
 
 First feature with second feature
-0: It is feature film. Director is Lucas
-5: It is feature film. Director is Spielberg
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
 
-First animation && second animation
-1: It is animation film. It's way of creation is drawing.
-2: It is animation film. It's way of creation is using dolls
+First feature + second documentary
+2: This is "Goodfellas". It is feature film. Director is Scorsese
+The picture was filmed in USA.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
 
-First animation && second animation
-1: It is animation film. It's way of creation is drawing.
-3: It is animation film. It's way of creation is stop motion
+First animation plus second feature
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
 
-First animation and second feature
-1: It is animation film. It's way of creation is drawing.
-4: It is feature film. Director is Scorsese
+First animation N' second documentary
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
 
-First animation and second feature
-1: It is animation film. It's way of creation is drawing.
-5: It is feature film. Director is Spielberg
+First animation plus second feature
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
 
-First animation && second animation
-2: It is animation film. It's way of creation is using dolls
-3: It is animation film. It's way of creation is stop motion
+First animation N' second documentary
+3: This is "Cartoon1". It is animation film. It's way of creation is drawing.
+The picture was filmed in Japan.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
 
-First animation and second feature
-2: It is animation film. It's way of creation is using dolls
-4: It is feature film. Director is Scorsese
-
-First animation and second feature
-2: It is animation film. It's way of creation is using dolls
-5: It is feature film. Director is Spielberg
-
-First animation and second feature
-3: It is animation film. It's way of creation is stop motion
-4: It is feature film. Director is Scorsese
-
-First animation and second feature
-3: It is animation film. It's way of creation is stop motion
-5: It is feature film. Director is Spielberg
+First feature + second documentary
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
 
 First feature with second feature
-4: It is feature film. Director is Scorsese
-5: It is feature film. Director is Spielberg
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+
+First feature + second documentary
+4: This is "Schindler's_List". It is feature film. Director is Spielberg
+The picture was filmed in USA.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
+
+First documentary 4ND second feature
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+
+First documentary ++ second documentary
+5: This is "Doc1oo". It is documentary film. It's year of creation is 1999
+The picture was filmed in Russia.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
+
+First feature + second documentary
+6: This is "Star_Wars". It is feature film. Director is Lucas
+The picture was filmed in USA.
+7: This is "Doc2o". It is documentary film. It's year of creation is 2005
+The picture was filmed in Italy.
 
 Empty container. 
 Container contents 0 elements.
